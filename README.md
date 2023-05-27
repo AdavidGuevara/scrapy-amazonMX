@@ -1,3 +1,3 @@
-# Scraping a amazon.
+# Scraping to amazonMx.
 
-- Se utiliza la herramienta de anti-bot scrapeops.
+- Use the anti-bot scrapeops tool.
